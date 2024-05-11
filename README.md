@@ -1,4 +1,3 @@
-### Hi there 👋
+### Hi there, 👋 this is Neha. A recent computer science BTech graduate interested in all things Python & Data Science! :) I'm excited to apply my analytical and problem-solving abilities from my career in production engineering and dependability to the data field. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on an End To End ML Project With Deployment.
